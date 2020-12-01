@@ -1,0 +1,58 @@
+.btnagregar {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.tablas {
+    background-color: black;
+    opacity: 0.7;
+}
+
+.tablas th {
+    color: white;
+}
+
+td {
+    color: white;
+}
+
+label {
+    color: white;
+    font-size: 20px;
+}
+
+form {
+    padding-top: 20px;
+}
+
+td {
+    padding-bottom: 15px;
+}
+
+input {
+    background-color: black;
+    opacity: 0.7;
+    color: white;
+}
+
+.enviodatos {
+    background-color: black;
+    opacity: 0.7;
+    padding-bottom: 20px;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    width: 500px;
+    text-align: right;
+}
+
+.editardatos {
+    background-color: black;
+    opacity: 0.7;
+    padding-bottom: 20px;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    width: 500px;
+    text-align: right;
+}
